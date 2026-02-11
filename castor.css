@@ -1,0 +1,265 @@
+body{
+  background-color: white;
+}
+.boite0{
+  margin: 0px;
+  background-color: gainsboro;
+  width: 341px;
+  height: 40px;
+  border: 1px solid gray;
+}
+.boite{
+  background-color: gainsboro;
+  color: black;
+  width: 341px;
+  height: 300px;
+  border: 1px solid gray;
+  position: absolute;
+  top: 55px;
+}
+.h2{
+  margin: 0px;
+  color: green;
+  position: relative;
+  top: 7px;
+  left: 5px;
+  bottom: 2px;
+  font-size: 20px;
+}
+.titre{
+  margin: 0px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.xss{
+  color: green;
+  font-size: 20px;
+}
+.boite2{
+  background-color: gainsboro;
+  margin: 0px;
+  width: 320px;
+  height: 160px;
+  position: relative;
+  border: 1px solid gray;
+  left: 9px;
+  top: -30px;
+}
+.p{
+  margin: 0px;
+  position: relative;
+  top: -35px;
+  left: 10px;
+  font-size: 16px;
+}
+.titre2{
+  margin: 0px;
+  position: relative;
+  left: 5px;
+  top: 5px;
+  bottom: 5px;
+}
+.choix1{
+  background-color: gainsboro;
+  width: 300px;
+  height: 30px;
+  border: 1px solid gray;
+  position: relative;
+  left: 8px;
+  top: 10px;
+  right: 0px;
+}
+.choix1a{
+  margin: 0px;
+  color: gainsboro;
+  background-color: gainsboro;
+  width: 15px;
+  border: 1px solid gray;
+  position: relative;
+  top: -14px;
+  left: 5px;
+}
+.choix2{
+  background-color: gainsboro;
+  width: 300px;
+  height: 30px;
+  border: 1px solid gray;
+  position: relative;
+  top: 20px;
+  left: 8px;
+  right: 0px;
+}
+.choix2a{
+  margin: 0px;
+  color: gainsboro;
+  background-color: gainsboro;
+  width: 15px;
+  border: 1px solid gray;
+  position: relative;
+  top: 5px;
+  left: 5px;
+}
+.choix3{
+  background-color: gainsboro;
+  width: 300px;
+  height: 30px;
+  border: 1px solid gray;
+  position: relative;
+  top: 30px;
+  left: 8px;
+  right: 0px;
+}
+.choix3a{
+  margin: 0px;
+  color: gainsboro;
+  background-color: gainsboro;
+  width: 15px;
+  border: 1px solid gray;
+  position: relative;
+  top: 5px;
+  left: 5px;
+}
+.pf{
+  margin: 0px;
+  position: relative;
+  top: -18px;
+  left: 10px;
+}
+.span0{
+  background-color: green;
+  color: green;
+}
+.span{
+  color: green;
+}
+.pa{
+  margin: 0px;
+  position: relative;
+  left: 30px;
+  top: 5px;
+}
+.pb{
+  margin: 0px;
+  position: relative;
+  left: 30px;
+  top: -15px;
+}
+.pc{
+  argin: 0px;
+  position: relative;
+  left: 30px;
+  top: -30px;
+}
+.ligne1{
+  width: 320px;
+  position: relative;
+  top: 10px;
+}
+.ligne2{
+  width: 150px;
+  margin: 0px;
+  position: relative;
+  left: 10px;
+  top: -35px;
+}
+.facile{
+  color: green;
+}
+.cub{
+  margin: 0px;
+  background-color: gainsboro;
+  border: 1px solid gray;
+  width: 70px;
+  height: 40px;
+  position: relative;
+  left: 260px;
+  top: 5px;
+}
+.cub2{
+  color: green;
+  margin: 0px;
+  background-color: green;
+  width: 30px; 
+  height: 25px;
+  border: 0.5px solid black;
+  position: relative;
+  left: 5px;
+  top: 8px;
+}
+.conn{
+  margin: 0px;
+  border: 1px solid gray;
+  background-color: gainsboro;
+  color: gray;
+  font-size: 14px;
+  width: 70px;
+  position: relative;
+  left: 260px;
+  top: -12px;
+}
+.boite3{
+  color: black;
+  background-color: gainsboro;
+  margin: 0px;
+  border: 1px solid gray;
+  height: 170px;
+  position: relative;
+  top: 312px;
+}
+.titre3{
+  margin: 0px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.cub3{
+  margin: 0px;
+  background-color: gainsboro;
+  border: 1px solid gray;
+  width: 90px;
+  height: 40px;
+  position: relative;
+  left: 10px;
+  top: 15px;
+}
+.cub4{
+  color: green;
+  margin: 0px;
+  background-color: green;
+  width: 30px; 
+  height: 25px;
+  border: 0.5px solid gray;
+  position: relative;
+  left: 5px;
+  top: 8px;
+}
+.ligne3{
+  margin: 0px;
+  width: 320px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+}
+.boite4{
+  color: black;
+  background-color: gainsboro;
+  margin: 0px;
+  border: 1px solid gray;
+  height: 195px;
+  position: relative;
+  top: 315px;
+}
+.titre4{
+  margin: 0px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.ligne4{
+  margin: 0px;
+  width: 320px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
